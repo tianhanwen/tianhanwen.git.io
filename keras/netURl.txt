@@ -1,0 +1,31 @@
+https://www.cnblogs.com/gujianhan/p/6030639.html
+https://blog.csdn.net/qq_36269513/article/details/80420363
+https://blog.csdn.net/qq_37274615/article/details/73251503
+对极几何
+https://www.cnblogs.com/clarenceliang/p/6704970.html 
+https://www.cnblogs.com/sunny-li/p/7500541.html
+开源代码
+https://github.com/shelhamer/fcn.berkeleyvision.org
+关于BN的解释
+https://blog.csdn.net/fate_fjh/article/details/53375881
+EPINET	论文的官网介绍:
+http://hci-lightfield.iwr.uni-heidelberg.de/benchmark/algorithm/epinetfcnm
+EPINET	论文源代码网址：
+https://github.com/chshin10/epinet\
+https://github.com/chshin10/epinet
+论文讲解
+https://blog.csdn.net/I_love_hesper/article/details/80515726
+光场数据集网站
+http://hci-lightfield.iwr.uni-heidelberg.de/
+谷歌学术网站
+http://ac.scmor.com/
+HCI数据集
+tensorflow卷积核详细讲解
+https://www.cnblogs.com/qggg/p/6832342.html
+Keras卷积核详解
+https://blog.csdn.net/u012969412/article/details/70882296
+fast-Rcnnhttps://blog.csdn.net/WZZ18191171661/article/details/79439212
+论文源代码
+https://github.com/zziz/pwc 
+keras中文文档
+https://keras-cn.readthedocs.io/en/latest/layers/convolutional_layer/
